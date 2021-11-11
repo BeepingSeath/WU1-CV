@@ -1,0 +1,32 @@
+.flip-horizontally {
+    transform: scaleX(-1);
+  }
+.record_header{
+    display: flex;
+}
+.container {
+  font-family: 'Volkhov', serif;
+}
+h1 {
+  font-size: xx-large;
+}
+.CI-List {
+  list-style: none;
+  padding-left: 1.25rem;
+  font-size: x-large;
+}
+.Experiences {
+  padding-left: 0.5rem;
+  font-size: larger;
+}
+.Logo {
+  min-height: 50rem;
+  margin-top: -40.5rem;
+  margin-left: 5rem;
+}
+.LogoText {
+  font-family: 'EB Garamond', serif;
+  margin-top: -2rem;
+  margin-left: 10rem;
+  font-size: 5rem;
+}
