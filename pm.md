@@ -16,17 +16,16 @@ Första delen av processen är att skissa fram idéer på papper vilket jag gör
 <br>
 Andra delen av processen är att göra en skiss i Figma där jag försökte göra en väldigt fin skiss som skulle se ut som slutprodukten.
 ![FigmaSkiss](https://media.discordapp.net/attachments/426693040661463041/910829722685030460/unknown.png?width=1246&height=702)
-Sista delen av processen var att göra om skissen till en riktig fungerande sida. Det gjorda jag genom att göra en index.html i Visual Studio Code och då sedan börja programmera upp en sida. Det blev väldigt krångligt med att sätta texterna på rätt ställe av sidan.
+Sista delen av processen var att göra om skissen till en riktig fungerande sida. Det gjorda jag genom att göra en index.html i Visual Studio Code och då sedan börja programmera upp en sida. Det blev väldigt krångligt med att sätta texterna på rätt ställe av sidan men jag fick till det tillslut.
 
 ## Positiva erfarenheter
 
-Här beskriver du vad som har gått bra i ditt projekt och analyserar varför. Hur ska du upprepa framgångarna.
+Det gick bra att göra en figma skiss så jag tänker göra min skiss i figma nästa gång. 
 
 ## Negativa erfarenheter
 
-Här beskriver du det som du anser har gått mindre bra med ditt projekt och analyserar hur du kan undvika detta i framtida projekt.
+Det som gick mindre bra är att använda aside men jag har nu lärt mig hur man använder det så det borde gå bättre nästa gång.
 
 ## Sammanfattning
 
-Här redovisar du dina slutsatser, erfarenheter och lärdomar. Reflektera över din produkt och dess/dina utvecklingsmöjligheter.
-Vad kan vidareutvecklas och finns det utrymme att bygga vidare på projektet.
+Totalt sett så har hela projektet gått bra men det finns fortfarande saker som skulle kunna förbättras, som att sidan inte har någon vertikalitet vilket gör att den inte känns så "sidig" utan mer som ett kort. Sidan funkar även väldigt dåligt på mobilen vilket är någonting som skulle kunna förbättras.
