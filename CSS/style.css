@@ -8,16 +8,17 @@
   font-family: 'Volkhov', serif;
 }
 h1 {
-  font-size: xx-large;
+  font-size: 1.75rem;
 }
-.CI-List {
+ul {
   list-style: none;
   padding-left: 1.25rem;
-  font-size: x-large;
+  font-size: 1.25rem;
 }
-.Experiences {
+ol {
   padding-left: 0.5rem;
-  font-size: larger;
+  font-size: 1.15rem;
+  list-style: disc;
 }
 .Logo {
   min-height: 50rem;
